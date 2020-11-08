@@ -1,0 +1,8 @@
+http://localhost:8000/user-places/like?userID=1234&placeID=161&isSuperLike=1
+
+###
+http://localhost:8000/user-places?userID=1234
+
+
+###
+https://ve6ngjcjpl.execute-api.ap-northeast-2.amazonaws.com/dev/user-places?userID=1234
